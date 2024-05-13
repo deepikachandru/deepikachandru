@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I was a dominos pizza chef
 
 #### Connect with me
- [[params.social]]
-    icon = "linkedin"
-    link = "https://www.linkedin.com/in/deepika-c-9649611a1/"
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/deepika-c-9649611a1/)
