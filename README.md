@@ -7,13 +7,13 @@
 Here are some ideas to get you started:
 -->
 
-#### <p align="center">I am Deepika, a passionate Software Engineer from India. Big time technie with interests in programming and data analysis </p>
+#### <p align="center">I'm Deepika, a passionate Software Engineer from India. I'm a big-time techie with interests in programming and data analysis.</p>
 
-- 🔭 I’m currently working as a Data Engineer intern at Newcastle University
-- 🌱 I’m learning Data Science tools and techniques
-- 👯 I’m looking to collaborate on Data analysis and Software engineer roles
-- 💬 Ask me about my international master's journey and anything about data science
-- ⚡ Fun fact: I was a dominos pizza chef
+- 🔭 Currently, I'm working as a Data Engineer intern at Newcastle University.
+- 🌱 I'm actively learning Data Science tools and techniques.
+- 👯 I'm eager to collaborate on Data analysis and Software Engineer roles.
+- 💬 Feel free to ask me about my international master's journey or anything related to data science.
+- ⚡ Fun fact: I used to be a Domino's pizza chef.
 
 #### Connect with me
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/deepika-c-9649611a1/)
