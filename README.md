@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am Deepika, a passionate Software Engineer from India
-# Big time technie with interests in programming and data analysis
+#### I am Deepika, a passionate Software Engineer from India
+##### Big time technie with interests in programming and data analysis
