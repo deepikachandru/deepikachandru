@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 #### Connect with me
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/deepika-c-9649611a1/)
+
+![GitHub Views](https://komarev.com/ghpvc/?username=deepikachandru)
+
